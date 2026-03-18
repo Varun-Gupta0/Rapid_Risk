@@ -1,7 +1,13 @@
 const Patient = require('../models/patient.model');
+const { evaluateRisk } = require('./riskEngine.service');
 
 const createPatient = async (patientData) => {
-  const patient = new Patient(patientData);
+  const { riskScore, riskLevel } = evaluateRisk(patientData);
+  const patient = new Patient({
+    ...patientData,
+    riskScore,
+    riskLevel,
+  });
   return await patient.save();
 };
 
