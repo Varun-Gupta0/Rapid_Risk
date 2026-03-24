@@ -1,0 +1,143 @@
+﻿[
+  {
+    "id": "90e63650-6ae7-4c86-b562-9527d23a59a1",
+    "status": "ERRORED",
+    "platform": "ANDROID",
+    "error": {
+      "errorCode": "EAS_BUILD_UNKNOWN_GRADLE_ERROR",
+      "message": "Gradle build failed with unknown error. See logs for the \"Run gradlew\" phase for more information."
+    },
+    "artifacts": {},
+    "initiatingActor": {
+      "id": "1230477e-e4ce-4fcd-8ef2-986f6cb6a99e",
+      "displayName": "zynttrixxxx"
+    },
+    "logFiles": [
+      "https://job-logs.eascdn.net/production/90e63650-6ae7-4c86-b562-9527d23a59a1/1774207832174-a806b9c6-7be2-4fd2-b302-637679c4f885.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=f62fb1dbf79c7e6bbbdbff5266143c025541b9c6bcee3e0ea1506041b729b13d1326c0fa1069b6b4c2a3247ec9b2fa94879dea5855937c0029b943b6a2be16fb40e1255033ae8bea0edb4cb1c6412700e1fabccbb5adeed0ff9f9b964c9f8a5f619e705efffd2a15c0aab59105eee35e33001e790d260dc790396dfee80c2dffe610bc737cf236c6961094648e012cb050c8e71a9987a60c084d43f7d15b0b82730fe2a36c6ce65aa172d25ec34f49d6b83bcb17475ef66cb4072e6862924149781c4e6a1b6dbc31347177443667d67d70998a8b473c901f2e079cdea07d7ae070e33a71c9faed5c1c9b4a3032ceedd278d63fef943d0f5aef5d2bf7ce1882a1",
+      "https://job-logs.eascdn.net/production/90e63650-6ae7-4c86-b562-9527d23a59a1/1774207832858-251fd564-a503-4d69-80d1-f625d1e9591a.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=78c7a510168fd2be4169bdbdb102cb602d1f329a7b20343c350a3a223dce1a784c1c6106f10ad3df1f2a83a8778a72cf52c7faa7dd31a2cda48266f49ea3431987b956f63f32eeabb557498b7d7195ae794b6ac98d6c0fe2f5e0da57ddae1ac5a5b244c09f2f021a77caed3b85d81d31cb7ae06f2a3657a60df47c4d90e1a9e04f88235b84d9a92d67e627486621cf43755d362083f7f6fea846ecb01ecec65f415ef835680336e1e67068bfe39dc710ca155e2ef9381371409a7f287e9517deb8a128ae7edc0993be6b23eb23350110b1edad5c61b3fe8e25c4090e00174ef522b6b16d3e527e902f58ebcd91929eb27566c4d55c037d48693b237bbbe933f0",
+      "https://job-logs.eascdn.net/production/90e63650-6ae7-4c86-b562-9527d23a59a1/1774207833088-0fbdf5e2-981c-4c2b-9ca1-d40d4663152a.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=5bbbc09210d70dfa092b2ebec3bdae5ccfc7e31b5bf087122e269733c9c619bf9bc799949c513c4fb10cdcf5ce2b9d20f5032722ad935171b23968419a7c0182c3355c222245c978c46fe1429d17938a6f9fd8f2d5e20b541558c9e0c4c42f162c76ea985e9c05a315fd6089a1923ea0b1a08aeacbbcd703e68d7cdba19749158bc402149ae2cbcd79027d5d5ae4288d8fd3d93ca1e6a6e3b553ca61447c7a2dba6c624240647406589c3ff2795ad8db915ef34821cece02f0da50b87a1003d5ab6c2cdc2d49c293b4986dd0d77577646f79e28d0a87a6f1f89cec08cd1b1ec2ebd2edd759ddedc4f3f70844609e29c79ebec60043a899f760cb8c24b6513f0c",
+      "https://job-logs.eascdn.net/production/90e63650-6ae7-4c86-b562-9527d23a59a1/1774207833277-d33b7bdc-82b5-4c88-8496-c45bb6dbac9b.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=e1a0a5b0651153baeb4d93ee2555251dcb8fc308b606d2df8246dd1d9484cbc10715c3df83baaf799a4fa459d40f177dd36877ad699bc444899e05c860f6367de9ed2914b4fbab24d26fcb71c5d1af8e636a6e39d582529c48ad2a964ab7e7f73e0a812294e20e20ba2439cd5683f552fbd23bf2758d526bc9d55179aea5d41630bf8c4c484b11ed800607da8c53e62bb6ab1b0fb9a5d341f4d4e5ad85fa3a595bdf5f733cf5a5b7c57e3011c2fdfe09efbb47780836145c1f3420678ff436d229b2769a4b180301f76a66ac22496a331eba9870b2e0fc08ca82c893249779a4a16002f588f2bb0f2051716dbb0f35f2d7c47aecfedd8b92445f5aa6b93f4df4"
+    ],
+    "project": {
+      "id": "e2e6dd9d-250d-445f-8fc5-8fb26ac817a3",
+      "name": "raksha-ai",
+      "slug": "raksha-ai",
+      "ownerAccount": {
+        "id": "54382339-bf66-4cd1-ae19-cda40d263dbb",
+        "name": "zynttrixxxx"
+      }
+    },
+    "distribution": "STORE",
+    "buildProfile": "preview",
+    "sdkVersion": "50.0.0",
+    "appVersion": "1.0.0",
+    "appBuildVersion": "1",
+    "gitCommitHash": "d8e1d8232ba407dbcdb3088615c69eb16318bf4e",
+    "gitCommitMessage": "feat: Initialize frontend application with navigation, core screens, and reusable components including a dynamic questionnaire and system dashboard.",
+    "priority": "NORMAL_PLUS",
+    "createdAt": "2026-03-22T19:30:31.818Z",
+    "updatedAt": "2026-03-22T19:32:20.286Z",
+    "completedAt": "2026-03-22T19:32:20.029Z",
+    "expirationDate": "2026-04-21T19:30:31.984Z",
+    "isForIosSimulator": false,
+    "metrics": {
+      "buildWaitTime": 257,
+      "buildQueueTime": 31148,
+      "buildDuration": 76525
+    }
+  },
+  {
+    "id": "ac5b60be-6d99-4ce2-a4f2-4a0fa0fdbfc4",
+    "status": "ERRORED",
+    "platform": "ANDROID",
+    "error": {
+      "errorCode": "EAS_BUILD_UNKNOWN_GRADLE_ERROR",
+      "message": "Gradle build failed with unknown error. See logs for the \"Run gradlew\" phase for more information."
+    },
+    "artifacts": {},
+    "initiatingActor": {
+      "id": "1230477e-e4ce-4fcd-8ef2-986f6cb6a99e",
+      "displayName": "zynttrixxxx"
+    },
+    "logFiles": [
+      "https://job-logs.eascdn.net/production/ac5b60be-6d99-4ce2-a4f2-4a0fa0fdbfc4/1774207476409-226ceb13-3704-416e-8fb8-9c5b18804932.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=911d90235d1fcd116306a6ff98f4515e66375bae82d3a4d99da97c9336be0f747261c2688c8a563f34bc62fe78dc60d38fe9f02f245f54ea385a2c55df3ab417f5b620289c2646b05043ea2a27becbc2e099d0f34949f26146a189a10b2a021071d433fd5f46e410bd5f4e7b5c94aa959eb211938fb8548737722546159de6a903bc597cb2d949cc15062f8ca0cd9eeb656c9a03c06a9338163681d815030a35fab90a19f0f225f2c4ff6c531f8dcbf5ca95c649c3dc6df0e7f6ac71ebe40aa46a2c77e42b2548ece81f1542be41284e71ab188c88996891b9aa479103f2afad05c55c7bced3a339c2dc252c44f6833c209a8887b1d5bd955f83f0c18b735f8d",
+      "https://job-logs.eascdn.net/production/ac5b60be-6d99-4ce2-a4f2-4a0fa0fdbfc4/1774207485201-75252b0f-35ba-4dfa-af0c-08be5e436428.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=0fbef65f0cae454565e34fe63ff95e81e560bb6cc6412f9b98c987d307fc21557a2bccd75197421342f4f4e0ec3b95cf094245b95bacf206af1b05d31e5c35fa37da54c9f8b1ac45dc18525704142902eac8c70eb5fecfaeb7af1ac3b4448830287e3f9187ea0c4d0fd58b962cd2dc8f17c9f45f443e01e6ded27d93cc89ebc5c71b867545ef920bca1f2fec61fc4be9383965b016950248cdb392d2d45d21f2a8908225673040355dcd621ea64351168dce490c4d7945b86e1b680165e44d2e44ea80fee28f5b616730b2f4d71901280b398d52b21cdab1f2ca367840844068bb2f2b7d0a9dbe1b22a9d9b8aaffe34b2c4027b07df5cf203c6ab8fb92f2a79a",
+      "https://job-logs.eascdn.net/production/ac5b60be-6d99-4ce2-a4f2-4a0fa0fdbfc4/1774207485412-7f9ef060-037b-46d4-be1f-fecd65e1f34c.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=821bb0185ba339a7a7836415ff11d00e347fa3d57c5d5678307d12b47a634b3bf72169ab6d76930f9ac48bc6733c5c44efa950eaa46811fcccbd1106474011b10bf065e1de7bfd6f9e273941cf2fd4e9a7e3d7ca21cf10a080402048468ab5a6ee8dc662632b66a4d5d8c96d02b0742d5915aed7bb48a0aa553a4531fe22a3fe9a20907abdbc3fbda7b04c38e08a47fa770be65bd11c6f29e4d3ae2ddefe4b2cb2cc729c27c801f19df35b966b1a4cd5d582e379b6d8d0063f60b9237d258d01f754b464094b982f790289b60e5518ea42d11cb68856fcae52cf64c6c864dc4fb7c8a93ee55ac86695dbc40e6c2e106a45c06c9767af9a451a1b02b853f37995",
+      "https://job-logs.eascdn.net/production/ac5b60be-6d99-4ce2-a4f2-4a0fa0fdbfc4/1774207485590-9e486b01-c985-4850-9d52-cfaa9b5c0fcf.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194144Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=848113fa3823f6cacdcf084ae7ce1caddecab409a97943a2b81a6984edb4f6e91a21cf14561625b8db38f1ac1cd41c5a29af13cf6318bbd30397b39879e3ca8de65955a12f912dcc3113917ca45ee8d646659419907e69c6b88922e6913dd292d80f1802239b6843b52a6aaf6c5dbd026dc2734212943b37b9dffff5e3904c89c46eb40567aa5909556e2647f7fd7920f0886adde39b24ecabaff82afb2fb92109a6000dc741b5cd06297d3e84a2e7493b11c8b599c7cf630cb980e846653e8ba5eb6159377a284641717e6d353ca228d1931f6db352a1f5255e8e79ff8484d6d0bf5a5a7fda96501db544a6f82abbc8d1944c86aa4c32b260ebe0bd269b08c6"
+    ],
+    "project": {
+      "id": "e2e6dd9d-250d-445f-8fc5-8fb26ac817a3",
+      "name": "raksha-ai",
+      "slug": "raksha-ai",
+      "ownerAccount": {
+        "id": "54382339-bf66-4cd1-ae19-cda40d263dbb",
+        "name": "zynttrixxxx"
+      }
+    },
+    "distribution": "STORE",
+    "buildProfile": "preview",
+    "sdkVersion": "50.0.0",
+    "appVersion": "1.0.0",
+    "appBuildVersion": "1",
+    "gitCommitHash": "d8e1d8232ba407dbcdb3088615c69eb16318bf4e",
+    "gitCommitMessage": "feat: Initialize frontend application with navigation, core screens, and reusable components including a dynamic questionnaire and system dashboard.",
+    "priority": "NORMAL_PLUS",
+    "createdAt": "2026-03-22T19:24:35.879Z",
+    "updatedAt": "2026-03-22T19:26:56.715Z",
+    "completedAt": "2026-03-22T19:26:54.940Z",
+    "expirationDate": "2026-04-21T19:24:35.918Z",
+    "isForIosSimulator": false,
+    "metrics": {
+      "buildWaitTime": 177,
+      "buildQueueTime": 40033,
+      "buildDuration": 98606
+    }
+  },
+  {
+    "id": "07691bf6-a6d2-4797-a2f9-d1ac045e9a59",
+    "status": "ERRORED",
+    "platform": "ANDROID",
+    "error": {
+      "errorCode": "EAS_BUILD_UNKNOWN_GRADLE_ERROR",
+      "message": "Gradle build failed with unknown error. See logs for the \"Run gradlew\" phase for more information."
+    },
+    "artifacts": {},
+    "initiatingActor": {
+      "id": "1230477e-e4ce-4fcd-8ef2-986f6cb6a99e",
+      "displayName": "zynttrixxxx"
+    },
+    "logFiles": [
+      "https://job-logs.eascdn.net/production/07691bf6-a6d2-4797-a2f9-d1ac045e9a59/1774081385623-e54dbfa2-766b-4e2e-846e-ace631a63ae9.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194145Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=a85970157bdd35c726d04958cb9a48e60825353e3699ed8daf8b512b16b98bf4a1ce4325632dca58db67277ae684695a8ef25d0ef60d180f0a6a978f958aa2a51dfa028e4e14a8363e23b56348e22b1d33cc89133a7a05a4684a9727cadfaea852931f2451d262d3c9f53f558d03e54b0f8e42da033fee25af95015e6e935e30e7a94c0edcaee66c21065181e4eed0ed188d70c30db8203fe73ae5fa88adf98383bab31a58d9b4501c8bcf09fd83661c66c4bedf37307d14874748fc4531664688d516eab5630f57435b9e0e4fbbda08f85a331373f08ec1aafcc8ef5888a88c6ee8a401e9899c48e4b63fd11d5f2bd18b8fc9a73523e2d158a8b869edd70cf3",
+      "https://job-logs.eascdn.net/production/07691bf6-a6d2-4797-a2f9-d1ac045e9a59/1774081389674-85e3df31-2f17-456c-8153-099ee01c5bd5.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194145Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=7b7244c089e336e072c27d95b23575ffd53a1210c0532a0e33ec1b6d1908a78cee09b74c46c4554d9e284df32eb0c5c8d38d274080efe0f04b43b0ea401602fd0e8852265af1c62572cfaef1e0bedfbbf0eee101c20b51e1c5b6cd60c2284c869464b38dc1816e67ea31a0c9a110d4d720c3a964293c8ddcd2dc3d15a1766134082dae5a862862b619d38388d02ae42684d2168e31b5840229cd3f33bc2c2479dde807d25b8776663c101da93589f96ea83f868bb7b15276e82627b0ba7a7c4e07873604bce0263143b0a09e0e066dd15a82c30010d39eac0845d381af58a2c361c3fb9942dd5afdf400a2005723e5bd79b2294f9f280f06a948135faa838fe9",
+      "https://job-logs.eascdn.net/production/07691bf6-a6d2-4797-a2f9-d1ac045e9a59/1774081389942-319e653a-2fc0-47fb-a897-d9a898f013b6.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194145Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=f7c48c31c5c2ef267713ebc63e3df257d68710b6124348bc1d2fa81254eaed1faa290e172d06609d08ef4ec57bd183e19b6ab330dd2f750739899aa7d25ce4f6f7a36a6f2f9f3e8e712e1329c62863ba9f5170b8833a6d2e1ddede305cf599e88986c7465479b3255445fcd6966aa6e02ac43a513229a94518b22f64bd5e6956840da8f309003922869c5c00e5a118514865ec88052581090c2d0c01bf260d47a6bccb6cd532c7ea1ccb0b21ece885f04dccc35636520dbb7bf57698e6814920139e561e3399b20e30c2bb611f427ef00e2e980a3da413cbb5cecf16aaa4835ada09f363b75b2f1ddde44fd1d4f8e18b1b8d2c09dfa301897db5174010edc5b8",
+      "https://job-logs.eascdn.net/production/07691bf6-a6d2-4797-a2f9-d1ac045e9a59/1774081390134-e54c7ef9-0bcc-4200-88d1-8620816bbc61.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T194145Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=4b896403bf30e4db857c7acf0e791d64abef6ca8b0f20a80da77aeff039b73a2d871602864fdd87704d403e5d4eee6043c9b0f1405a1b6329208ff660afea8a90cb540523e7727eebbd954e566bbc0921d2dd34bd3a78ec8bc1bb61055e0f32f691957a38914d4249d0c57e07043e24c3d315ba7102715fee539f43ab24bb401267ae91de4a2d3e55ef60b9e67ae8378f99ff9a834d7b1b4213ec74c5475446cb6d94e699f1c8ea0bb7bd3170aba9644550def9c5cbd09d0b10fc41812749747f0629994c3defc64ed10f9a0c4d314b623fc9897cccdd4d9ff67915bdeb3349c6556127c5a39f054c9b2fb44ce8d703eb73788f8083082dfd650fa6b118d0ea9"
+    ],
+    "project": {
+      "id": "e2e6dd9d-250d-445f-8fc5-8fb26ac817a3",
+      "name": "raksha-ai",
+      "slug": "raksha-ai",
+      "ownerAccount": {
+        "id": "54382339-bf66-4cd1-ae19-cda40d263dbb",
+        "name": "zynttrixxxx"
+      }
+    },
+    "distribution": "STORE",
+    "buildProfile": "preview",
+    "sdkVersion": "50.0.0",
+    "appVersion": "1.0.0",
+    "appBuildVersion": "1",
+    "gitCommitHash": "d8e1d8232ba407dbcdb3088615c69eb16318bf4e",
+    "gitCommitMessage": "feat: Initialize frontend application with navigation, core screens, and reusable components including a dynamic questionnaire and system dashboard.",
+    "priority": "NORMAL_PLUS",
+    "createdAt": "2026-03-21T08:23:05.373Z",
+    "updatedAt": "2026-03-21T08:25:23.501Z",
+    "completedAt": "2026-03-21T08:25:16.739Z",
+    "expirationDate": "2026-04-20T08:23:05.419Z",
+    "isForIosSimulator": false,
+    "metrics": {
+      "buildWaitTime": 128,
+      "buildQueueTime": 33200,
+      "buildDuration": 97742
+    }
+  }
+]

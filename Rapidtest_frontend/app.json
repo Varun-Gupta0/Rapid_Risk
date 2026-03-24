@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "RakshaAI",
+    "slug": "raksha-ai",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.rakshaai.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e2e6dd9d-250d-445f-8fc5-8fb26ac817a3"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "36f29e34-8978-416c-bc89-252ccb2e71a2",
+    "status": "IN_PROGRESS",
+    "platform": "ANDROID",
+    "artifacts": {},
+    "initiatingActor": {
+      "id": "1230477e-e4ce-4fcd-8ef2-986f6cb6a99e",
+      "displayName": "zynttrixxxx"
+    },
+    "logFiles": [
+      "https://job-logs.eascdn.net/production/36f29e34-8978-416c-bc89-252ccb2e71a2/1774212337452-24194503-e372-4ee9-85c2-4b18871c64e3.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T204552Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=454e7ce65e31bf195d0a4a98e79b9fba1f7d1ea6b743d2146340f81da15b697cdc0ce5d9b8d384b8838417f0bd6d952297303c4033be2afb4631f2fa7adcb217c321af0b44da37d369af1710fa76f0518d8a6aefdd1f2f76c6d10513aba4c0016391b96b3af206fd351537de9dc3edf526693cd883dbde848f55ddc4f2a19ffe6930702b622ec4c7191323e7b5db5f466be4a5650c5d5d33c8acf6b0636416959231276f11c40ba79ad474bd4f06468d5e1392e9b677b366b3dca535ded38e472f41738da795fe0141aacaf07b86bdae7dd7925a343e4123d7cc91cae369da594fb5c63150b3bf3249eccd57c8f84c150d77bcc07644635b3c65f2ecde5a1b8c",
+      "https://job-logs.eascdn.net/production/36f29e34-8978-416c-bc89-252ccb2e71a2/1774212339456-59b0aac7-04e1-4e7b-a4d0-e424807f47eb.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T204552Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=7aa423fdcbaef6b75cc9e922c94c04a6f456fff859e82dca24de1ade3da3c206deac60eedef1cb7c186ce999d13fcbc1c9ee3e7a1ad26fbbebcef6b5323892a831f24a0e2cb882de6ef1ddfa7380eafd8f5c3c0c44b483a3feb60f8b21100491ed36279f94587d46e3b1196449403ee0675d726a77699e460155cc3ccb9d26f5210258f4674032f85326d3b20aa57fafbd531dfd4b13ebc62d04831be2056b6332b962c368cfbf63e825ff6b202441236283634921875ba6d8618c190f3770670de73851a79542ce4a6ae4a951fb2670dd1c189604e308c330924b02a054c6b04ca267c6963f262dd04a8e1efe158980c0f40926200c129872c99b5fdf4f11b8",
+      "https://job-logs.eascdn.net/production/36f29e34-8978-416c-bc89-252ccb2e71a2/1774212339670-3ce46c46-4b76-4a36-8329-4673b4bea08c.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260322%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260322T204552Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6ff8cd9c3455c3f0ad8bcc89dc5c05ad6c59d48de95ffca226ec640ec0477d4fd6e3501359d74304290daa7d1d6212237e9f801fbc6445dc8806ec348b0b2b9e6983aefe58e9bdc2699cf573547e90ca72bb11543ee18545846a61d2987dde79cd37a8805b389c0a2594708da6f4407f99d312511a935b21de5f0ac20c77a7a58aa523040cb7f73ac2165121a3d7fb8a80fa6e6b818df95604850a0acacbd98107817c5ec02abe06e3d81e92b5a160d9e3ad0deac33e6c5b3bf2bb6d77a4a226a1ff3c284c31235f06b1d6005c4298b631f36e565913713af1287700435bb2bdd5ee08cc4d6f72729965dfe718e55408818f80652e43f7a92b4fc44ae356ce0b"
+    ],
+    "project": {
+      "id": "e2e6dd9d-250d-445f-8fc5-8fb26ac817a3",
+      "name": "raksha-ai",
+      "slug": "raksha-ai",
+      "ownerAccount": {
+        "id": "54382339-bf66-4cd1-ae19-cda40d263dbb",
+        "name": "zynttrixxxx"
+      }
+    },
+    "distribution": "STORE",
+    "buildProfile": "preview",
+    "sdkVersion": "50.0.0",
+    "appVersion": "1.0.0",
+    "appBuildVersion": "1",
+    "gitCommitHash": "d8e1d8232ba407dbcdb3088615c69eb16318bf4e",
+    "gitCommitMessage": "feat: Initialize frontend application with navigation, core screens, and reusable components including a dynamic questionnaire and system dashboard.",
+    "priority": "NORMAL",
+    "createdAt": "2026-03-22T20:45:37.096Z",
+    "updatedAt": "2026-03-22T20:45:47.988Z",
+    "expirationDate": "2026-04-21T20:45:37.151Z",
+    "isForIosSimulator": false
+  }
+]

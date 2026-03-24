@@ -1,0 +1,123 @@
+{
+  "categories": {
+    "Child": [
+      {
+        "type": "input",
+        "label": "Child's Name",
+        "key": "childName",
+        "required": true
+      },
+      {
+        "type": "toggle",
+        "label": "Has a fever?",
+        "key": "childFever",
+        "required": false
+      },
+      {
+        "type": "select",
+        "label": "Age Group",
+        "key": "childAgeGroup",
+        "options": ["Infant", "Toddler", "Preschooler", "School-age"],
+        "required": true
+      }
+    ],
+    "Teen": [
+      {
+        "type": "input",
+        "label": "Teen's Name",
+        "key": "teenName",
+        "required": true
+      },
+      {
+        "type": "select",
+        "label": "How are you feeling?",
+        "key": "teenFeeling",
+        "options": ["Good", "Okay", "Bad"],
+        "required": true
+      },
+      {
+        "type": "toggle",
+        "label": "Experiencing stress?",
+        "key": "teenStress",
+        "required": false
+      }
+    ],
+    "Adult": [
+      {
+        "type": "input",
+        "label": "Adult's Name",
+        "key": "adultName",
+        "required": true
+      },
+      {
+        "type": "toggle",
+        "label": "Do you have any chronic conditions?",
+        "key": "adultChronic",
+        "required": false
+      },
+      {
+        "type": "select",
+        "label": "Employment Status",
+        "key": "adultEmployment",
+        "options": ["Employed", "Unemployed", "Retired"],
+        "required": true
+      }
+    ],
+    "Elderly": [
+      {
+        "type": "input",
+        "label": "Elderly Person's Name",
+        "key": "elderlyName",
+        "required": true
+      },
+      {
+        "type": "select",
+        "label": "Mobility Level",
+        "key": "elderlyMobility",
+        "options": ["Independent", "Assisted", "Bedridden"],
+        "required": true
+      },
+      {
+        "type": "toggle",
+        "label": "Taking medication?",
+        "key": "elderlyMedication",
+        "required": false
+      }
+    ],
+    "Pregnancy": [
+      {
+        "type": "input",
+        "label": "Mother's Name",
+        "key": "motherName",
+        "required": true
+      },
+      {
+        "type": "input",
+        "label": "Gestational Age (weeks)",
+        "key": "gestationalAge",
+        "required": true
+      },
+      {
+        "type": "select",
+        "label": "Trimester",
+        "key": "pregnancyTrimester",
+        "options": ["First", "Second", "Third"],
+        "required": true
+      }
+    ]
+  },
+  "base": [
+    {
+      "type": "input",
+      "label": "Patient ID",
+      "key": "patientId",
+      "required": true
+    },
+    {
+      "type": "input",
+      "label": "Date",
+      "key": "date",
+      "required": true
+    }
+  ]
+}

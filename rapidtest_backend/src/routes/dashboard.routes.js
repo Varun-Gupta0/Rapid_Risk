@@ -1,0 +1,11 @@
+const express = require('express');
+const router = express.Router();
+const dashboardController = require('../controllers/dashboard.controller');
+
+/**
+ * Route to fetch dashboard data
+ * GET /api/dashboard
+ */
+router.get('/', dashboardController.getDashboardData);
+
+module.exports = router;
